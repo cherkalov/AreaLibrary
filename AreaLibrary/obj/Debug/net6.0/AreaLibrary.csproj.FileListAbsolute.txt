@@ -1,0 +1,12 @@
+E:\Projects\AreaLibrary\AreaLibrary\bin\Debug\net6.0\AreaLibrary.deps.json
+E:\Projects\AreaLibrary\AreaLibrary\bin\Debug\net6.0\AreaLibrary.dll
+E:\Projects\AreaLibrary\AreaLibrary\bin\Debug\net6.0\AreaLibrary.pdb
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.csproj.AssemblyReference.cache
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.AssemblyInfoInputs.cache
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.AssemblyInfo.cs
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.dll
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\refint\AreaLibrary.dll
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\AreaLibrary.pdb
+E:\Projects\AreaLibrary\AreaLibrary\obj\Debug\net6.0\ref\AreaLibrary.dll
